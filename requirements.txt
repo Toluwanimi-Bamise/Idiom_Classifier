@@ -1,0 +1,6 @@
+transformers
+torch
+streamlit
+tensorflow==2.13
+tensorflow_hub
+keras_preprocessing
